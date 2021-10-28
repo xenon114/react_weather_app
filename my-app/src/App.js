@@ -45,7 +45,7 @@ const viewaCitylistHandler = () =>
            onPressList={viewaCitylistHandler}>
            </SideBar>
          
-              <div className="col-md-10">
+              <div className="col-md-10" style={{background:'#1c2d50'}}>
                 {showDashboard && <Dashboard></Dashboard>} 
                 {showSearchCity && <SearchCity></SearchCity>} 
               </div>

@@ -6,7 +6,7 @@ const Header = () =>
     return(
         
     <div className="row">
-    <div className="col-md-12" style={{background:'#f4f3ef',height:'100px'}}>
+    <div className="col-md-12" style={{background:'#081738',height:'100px',borderBottom:'1px solid yellow',color:'yellow'}}>
           <div className="row">
              <div className="col-md-6" style={{paddingTop:'25px'}}>
                  <h4>Weather Information System</h4>

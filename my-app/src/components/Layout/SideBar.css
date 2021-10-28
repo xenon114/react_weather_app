@@ -1,9 +1,10 @@
 .side_btn
 {
     margin: 10px;
-    background-color: #343638 !important;
+    background-color: #081738 !important;
     width: 90%;
     text-align: left !important;
+    color:yellow !important;
 }
 
 .side_btn:focus {
