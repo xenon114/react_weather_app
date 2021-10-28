@@ -1,0 +1,11 @@
+.side_btn
+{
+    margin: 10px;
+    background-color: #343638 !important;
+    width: 90%;
+    text-align: left !important;
+}
+
+.side_btn:focus {
+    background-color: Black !important;
+}
